@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, I'm Xavier</h1>
+<h1 align="center">Bonjour 👋🏾, I'm Xavier</h1>
 <h3 align="center">A passionate full stack coder from Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xavidigi&label=Profile%20views&color=0e75b6&style=flat" alt="xavidigi" /> </p>
