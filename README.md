@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **different frameworks**
 
-- 👨‍💻 All of my projects are available at [www.xavidigi.com](www.xavidigi.com)
+- 👨‍💻 All of my projects are available at www.xavidigi.com
 
 - 💬 Ask me about **Python, Javascript, HTML, CSS**
 
