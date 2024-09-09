@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)](https://xavidigi.com)
 <h1 align="center">Congratulations 🎉🥳 You found me! </h1>
 <h3 align="center">I am a passionate full stack coder living in Japan.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRrZHBnNDVwaDhha21xMmlkbWI0Z3ZlaWRhcWIxNmhvc2NwMjU2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWY4cmh0emZ4c2kwdnpvN3NnMzNiOWdpY3ZtZDl1aHVkdXdhOXRsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **different frameworks**
 
