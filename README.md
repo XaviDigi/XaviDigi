@@ -3,11 +3,8 @@
 <h3 align="center">I am a passionate full stack coder living in Japan.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWY4cmh0emZ4c2kwdnpvN3NnMzNiOWdpY3ZtZDl1aHVkdXdhOXRsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **different frameworks**
 
 - 👨‍💻 All of my projects are available at www.xavidigi.com
-
-- 💬 Ask me about **Python, Javascript, HTML, CSS**
 
 - 📫 How to reach me **xaviedigi@gmail.com**
 
