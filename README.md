@@ -1,13 +1,12 @@
-## Demo Video
-
-[![Watch the demo video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://streamable.com/e/2jpmx0?nocontrols=1)
-
 
 
 
 <h1 align="center">Congratulations 🎉🥳 You found me!! </h1>
 <h3 align="center">I am a passionate full stack coder living in Japan.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWY4cmh0emZ4c2kwdnpvN3NnMzNiOWdpY3ZtZDl1aHVkdXdhOXRsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<a href="https://xavidigi.com" target="_blank">
+    <img align="right" alt="XaviDigi" width="400" src="https://pouch.jumpshare.com/preview/Cr1ea5W7iZuCkR_qdhsnY7VJM_UekgMTxZHFMLTRTH3hf4awci1qJWUDFZ_Pp_Ttj7WDNWAW5YDZhwWYG_igekAFtBShOikdRJ0JuyX-yJ4" />
+</a>
+
 
 
 - 👨‍💻 All of my projects are available at www.xavidigi.com
