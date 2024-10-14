@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Congratulations 🎉🥳 You found me!! </h1>
+<h1 align="center">Congratulations 🎉🥳 You found me! </h1>
 <h3 align="center">I am a passionate full stack coder living in Japan.</h3>
 
 
